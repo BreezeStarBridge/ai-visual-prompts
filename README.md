@@ -1,9 +1,12 @@
 # 🎨 AI Visual Prompts (`ai-visual-prompts`)
 
-A clean and minimal collection of high-quality AI visual, image, and motion prompts for Flux.1, Midjourney v6, Sora, Runway, and Kling.
+A clean and minimal collection of high-quality AI visual, image, and motion prompts.
 
+[![GitHub stars](https://img.shields.io/github/stars/your-username/ai-visual-prompts?style=social)](https://github.com/your-username/ai-visual-prompts)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
+[English](./README.md) | [中文说明](./README_CN.md)
 
 ---
 
